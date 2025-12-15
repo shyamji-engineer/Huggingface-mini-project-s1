@@ -1,0 +1,46 @@
+=== HUGGING FACE  ===
+
+
+
+Theory + Practicle 
+
+2- in advance learn HF very good
+
+3- HF is an website which provide models, dataset, pipeline, transformer
+	data scientist, nlp, ai , llm model , all of them use this tools build project
+	
+4- what is HF ?
+	gen ai , llm project -- these model so large we cannot work these project in cpu 
+			we must need to purchase gpu more cost
+			
+HF is platform which introduce to help learner, studeent, praction, research to use
+	HF platform and we can build state of the art model (SOTA)
+	
+5- shall we work team 
+	huggingface.co 
+	
+6- llm models are 2 part 
+
+		text based model  --> user enter text model generate text 
+		multimodel  --> 
+				user text prompt -- model generate image, video, audio
+				multimodel is called state of the art 
+7- huggingface website & Platform
+
+8- lets do few basic practicle & I am suing google colab for that 
+
+9- google - google colab - connect to gpu 
+
+POC:1 -- TEXT GENERATION MODEL USING 
+				(HF TRASFORMER + GPT2 MODEL)
+				
+POC:2 -- NER ( NAMED ENTITY RECOGNITION)
+
+PROJECT:1 - SENTIMENT ANALSYSI USING GRADIO
+
+PROJECT:2 : TEXT IMAGE MODEL 
+
+
+		
+
+===== illusiondiffusion https://huggingface.co/spaces/AP123/IllusionDiffusion
